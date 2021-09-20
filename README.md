@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mahir Rahman
-- 👀 I’m interested in programming and problem-solving
-- 🌱 I’m currently learning object-oreinted programming (JAVA) and python
-- 📘 I'm hoping to learn Systems 1 and Data Structure in Spring 2022
-- 🔍 I’m looking for an internship or research assisstant position in the field of Computer Science and Engineering for Summer 2022
+- 👋 Hi, I’m @Mahir Rahman from Miami University
+- 👀 Interested in programming and problem-solving
+- 🌱 Currently learning object-oreinted programming (JAVA) and python
+- 📘 Hoping to learn Systems 1 and Data Structure in Spring 2022
+- 🔍 Looking for an internship or research assisstant position in the field of Computer Science and Engineering for Summer 2022
 - 📫 You can reach out to me at pmmahir80@gmail.com 
 
 <!---
